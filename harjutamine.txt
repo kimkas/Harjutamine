@@ -1,2 +1,4 @@
 Github on Microsofti tütarfirma ning see on mõeldud veebimajutuseks ja tarkvaraarenduseks kasutades git tarkvara. 
 Mina saan seda edaspidi kasutada Tarkvaralahenduse tunnis ja skriptimise tunnis. 
+GitHubi asutas Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007.
+2008 aastal oli Github kättesaadav
