@@ -1,2 +1,1 @@
 Github on Microsofti tütarfirma ning see on mõeldud veebimajutuseks ja tarkvaraarenduseks kasutades git tarkvara. 
-Mina saan seda edaspidi kasutada Tarkvaralahenduse tunnis ja skriptimise tunnis. 
