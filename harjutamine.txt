@@ -1,0 +1,1 @@
+Github on Microsofti tütarfirma ning see on mõeldud veebimajutuseks ja tarkvaraarenduseks kasutades git tarkvara. 
